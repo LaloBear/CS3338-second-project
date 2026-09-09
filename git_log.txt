@@ -1,0 +1,45 @@
+commit 6fca7705c9c6722e10210c761e291c38ecc402cf
+Merge: e177493 227cabf
+Author: LaloBear <lalosilva2004@gmail.com>
+Date:   Wed Sep 9 15:21:32 2026 -0700
+
+    Resolve merge conflict
+
+commit 227cabf4392f4357f70ae158433c05bc144d01f1
+Author: LaloBear <lalosilva2004@gmail.com>
+Date:   Wed Sep 9 15:15:53 2026 -0700
+
+    Add favorite game
+
+commit e17749300e952c916458d28612e4e8065415d5c1
+Author: LaloBear <lalosilva2004@gmail.com>
+Date:   Wed Sep 9 15:11:00 2026 -0700
+
+    Add favorite food
+
+commit 8ff008311378c475a86e23814af97a74c3f06005
+Author: LaloBear <lalosilva2004@gmail.com>
+Date:   Wed Sep 9 15:05:32 2026 -0700
+
+    Add README
+
+commit bb0f403c4aa53d82e5d3480cb5e065337e73e8f9
+Merge: 1d2bfc0 4b056a0
+Author: LaloBear <lalosilva2004@gmail.com>
+Date:   Wed Sep 9 15:01:54 2026 -0700
+
+    Merge pull request #1 from LaloBear/info-fill
+    
+    Fill in personal info
+
+commit 4b056a0244faf95ef1396e917e977febbbc800cf
+Author: LaloBear <lalosilva2004@gmail.com>
+Date:   Wed Sep 9 14:54:09 2026 -0700
+
+    Fill in personal info
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
